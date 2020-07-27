@@ -1,4 +1,4 @@
-describe('DoubleSlider', () => {
+describe('RangePicker', () => {
   beforeEach(() => {
     cy.visit('http://localhost:9000')
   });
